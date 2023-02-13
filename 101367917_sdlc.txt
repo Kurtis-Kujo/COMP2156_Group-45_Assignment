@@ -1,0 +1,3 @@
+SDLC stands for Software Development Life Cycle.
+A DevOps enginner is a person that makes code to assist SDLC.
+SDLC has 7 Phases.
