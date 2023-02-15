@@ -1,0 +1,1 @@
+DevOps is a software development methodology that emphasizes collaboration and communication between software developers and IT operations professionals, with the aim of automating and streamlining the software development process
