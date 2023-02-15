@@ -1,1 +1,2 @@
 DevOps is a software development methodology that emphasizes collaboration and communication between software developers and IT operations professionals, with the aim of automating and streamlining the software development process
+As a DevOps engineer, you play a critical role in ensuring that the software development
