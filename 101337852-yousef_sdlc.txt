@@ -1,1 +1,2 @@
 SDLC stands for Software Development Life Cycle. It is a structured process that is followed by software development teams to design, develop, test, and deploy high-quality software applications. The goal of SDLC is to produce software that meets customer requirements, is delivered on time, within budget, and is maintainable
+devops are super important 
