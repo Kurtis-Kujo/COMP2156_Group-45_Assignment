@@ -1,0 +1,1 @@
+A DevOps Engineer will often use the following approaches and technologies. Continuous integration, continuous deployment (CI/CD) Containers, Container orchestration, Monitoring.
