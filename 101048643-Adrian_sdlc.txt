@@ -1,0 +1,5 @@
+Its important to learn about devops as it will require less
+traning when we get in the field.
+
+This course helps us understand the process of being a devop.
+
