@@ -25,3 +25,27 @@ file detail 4: number of commits 11
 Group number 45:
 
 Group Members: Adrian Garcia, Khalid Henry, Reynold May, Yousef Said, Kurtis Shephard
+
+Student ID:101048643
+
+Branch: 101048643-Adrian
+
+Detail 1: connected with the main repo
+
+Detail 2: Made Branch 10104864-Adrian
+
+detail 3: Added the requested files for the assigment
+
+Total commits: 11
+
+101048643_gb.txt: 5 commits
+
+101048643_devops.txt: 4 commits
+
+101048643_sdlc.txt 2 commits
+
+Group num:45
+
+Group members: Adrian Garcia, Khalid Henry, Reynold May, Yousef Said, 
+Kurtis Shephard
+
